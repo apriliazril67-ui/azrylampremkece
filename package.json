@@ -1,0 +1,9 @@
+{
+  "name": "azryl-premium",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AZRYLPREMIUM digital premium store",
+  "dependencies": {
+    "firebase-admin": "^13.4.0"
+  }
+}
